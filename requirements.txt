@@ -1,0 +1,11 @@
+deeplake
+ollama
+langchain
+langchain-ollama
+langchain-community
+langchain-chroma
+langchain-classic
+tiktoken
+selenium
+python-dotenv
+huggingface_hub
